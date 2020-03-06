@@ -2,6 +2,8 @@
 
 ** by Michael Sperber
 
+
+
 This repository hosts [[https://srfi.schemers.org/srfi-66/][SRFI 66]]: Octet Vectors, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
